@@ -1,0 +1,86 @@
+{
+  "cartpole.png": {
+    "source": "../optimization_blog_assets/cartpole.png",
+    "sha256": "06d30047f7fb06561d827aac855b15bb0e9cec56026a5ee5a22ffe14bbe65135"
+  },
+  "discrete_learning.png": {
+    "source": "../optimization_blog_assets/discrete_learning.png",
+    "sha256": "64fdc53f5c37db8fb44c5ed2e218b993da7fd629d975574da94dcbc411ff368a"
+  },
+  "01_discrete_balance.gif": {
+    "source": "../results/seed0/ppo.gif",
+    "sha256": "a8dd65bc892a14b91d085b649c42cf85b9284447435a01dd568c17ec194e2b9b"
+  },
+  "02_continuous_survival.gif": {
+    "source": "../results/continuous_survival_seed0/ppo.gif",
+    "sha256": "b273a1dca660d1302c44c9d3f78a42b6cc0bbb6aa0e9c200208e403af26efa1a"
+  },
+  "continuous_comparison.png": {
+    "source": "../optimization_blog_assets/continuous_comparison.png",
+    "sha256": "0352ffc166f1717253d6fe61f601aea402bef861e4fb8b23d7d4cf756ee3f487"
+  },
+  "discrete_vs_continuous.gif": {
+    "source": "../optimization_blog_assets/discrete_vs_continuous.gif",
+    "sha256": "2a40a46082c62a8e2cff1637f7037aa53c26f628c2ad55c7bdce229d0070c023"
+  },
+  "position_comparison.png": {
+    "source": "../optimization_blog_assets/position_comparison.png",
+    "sha256": "6d16e3c833443460b426d5131e23390b09e00a0fb4e482881678832ede8303a3"
+  },
+  "position_return.gif": {
+    "source": "../optimization_blog_assets/position_return.gif",
+    "sha256": "86a5683d9b3e5fdfa4af411563fbf0594f927fd2b3fbb657110896e03ac966fa"
+  },
+  "before_push.gif": {
+    "source": "../optimization_blog_assets/before_push.gif",
+    "sha256": "5defae2c08d78c6eebc1e7f0049ad37ed4c2c75783db000be0c01e06994c4485"
+  },
+  "robust_comparison.png": {
+    "source": "../optimization_blog_assets/robust_comparison.png",
+    "sha256": "ffc5df5ce88c05a2399ef6dd85e7fd3b6d25459d3f6f7172cef173d9001e3f30"
+  },
+  "after_push.gif": {
+    "source": "../optimization_blog_assets/after_push.gif",
+    "sha256": "4722b86add8cf5f69fb22d2576b573c371e850ece2b04b30b1ca6645742f6b86"
+  },
+  "push_before_after.gif": {
+    "source": "../optimization_blog_assets/push_before_after.gif",
+    "sha256": "500bc2a238333ebe7ec24e52a376aa76475b47ede0be90e099b0e4a14b2c4768"
+  },
+  "tradeoff.png": {
+    "source": "../optimization_blog_assets/tradeoff.png",
+    "sha256": "30c0f13306963be1776d8cdfed0e456200a01511e87764d4cf824ef0ff7c6c40"
+  },
+  "strong_push.png": {
+    "source": "../optimization_blog_assets/strong_push.png",
+    "sha256": "83dbff21e191c459ebd8316ee8bd067b6972229dd33307c88dba45b03af59221"
+  },
+  "push_10n.gif": {
+    "source": "../optimization_blog_assets/push_10n.gif",
+    "sha256": "97f7fe08c77d0aea67f954e8b2ce5f0b5596b21046d4bdc120dcecf2c520edb8"
+  },
+  "push_15n_failure.gif": {
+    "source": "../optimization_blog_assets/push_15n_failure.gif",
+    "sha256": "80648b0a5bad111fd6eea10696bc0a3c09098e2af64de1c5d388ad24093af4e2"
+  },
+  "run_01_discrete_ppo.gif": {
+    "source": "code/outputs/run_all_20261016/01_discrete_ppo/ppo.gif",
+    "sha256": "18be51cbbd3cd600402b16032b725b2baa74020e765b9778d1501cdd06a3eb8c"
+  },
+  "run_02_continuous_ppo.gif": {
+    "source": "code/outputs/run_all_20261016/02_continuous_ppo/ppo.gif",
+    "sha256": "b273a1dca660d1302c44c9d3f78a42b6cc0bbb6aa0e9c200208e403af26efa1a"
+  },
+  "run_03_smooth_reward_ppo.gif": {
+    "source": "code/outputs/run_all_20261016/03_smooth_reward_ppo/ppo.gif",
+    "sha256": "66e4dc3a1c0803a9b361d1bce6bd0b998d6762332a335c76f1e3125c67e5c0ef"
+  },
+  "run_04_position_ppo.gif": {
+    "source": "code/outputs/run_all_20261016/04_position_ppo/ppo.gif",
+    "sha256": "1a9744b97a29ca8287ef9c4ace663df6abf51eb5c56ac888609baed3a6c5986f"
+  },
+  "run_05_robust_ppo.gif": {
+    "source": "code/outputs/run_all_20261016/05_robust_ppo/animation/pulse.gif",
+    "sha256": "4722b86add8cf5f69fb22d2576b573c371e850ece2b04b30b1ca6645742f6b86"
+  }
+}

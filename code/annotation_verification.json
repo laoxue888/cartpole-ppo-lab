@@ -1,0 +1,40 @@
+{
+  "scope": "Concise comments on key implementation choices; no executable changes",
+  "checks": [
+    {
+      "file": "01_discrete_ppo.py",
+      "key_comments": 30,
+      "lines": 338,
+      "ast_equivalent": true,
+      "sha256": "72a4ea9b23e94ad2735340c486223cf4fabf68b4a52c40c021b5b94987f5d81f"
+    },
+    {
+      "file": "02_continuous_ppo.py",
+      "key_comments": 42,
+      "lines": 424,
+      "ast_equivalent": true,
+      "sha256": "adde66ed1c373464a538966ceaab76678f8559648e8015ad4719e0afd3a627f2"
+    },
+    {
+      "file": "03_smooth_reward_ppo.py",
+      "key_comments": 42,
+      "lines": 424,
+      "ast_equivalent": true,
+      "sha256": "5bc2cb19f47ae9bd1f4f1a8de39ae99a145fe4d5289ff615ea67f0cb3bae1a2e"
+    },
+    {
+      "file": "04_position_ppo.py",
+      "key_comments": 49,
+      "lines": 482,
+      "ast_equivalent": true,
+      "sha256": "1fd2102cbf3ea614bfa0ff19c01fb2b13839abdc2d1ceb5899c16a834a20015d"
+    },
+    {
+      "file": "05_robust_ppo.py",
+      "key_comments": 58,
+      "lines": 583,
+      "ast_equivalent": true,
+      "sha256": "24bc564247b80d93b2f84dabbb24bf39e35b8d6c59658df734f6f70326ac3e8a"
+    }
+  ]
+}

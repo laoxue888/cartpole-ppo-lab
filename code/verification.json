@@ -1,0 +1,40 @@
+{
+  "isolated_from_scratch": {
+    "scripts": 5,
+    "steps_per_script": 2048,
+    "evaluation_episodes": 2,
+    "status": "passed",
+    "includes": [
+      "training",
+      "evaluation",
+      "checkpoint_save",
+      "PNG_or_disturbance_metrics",
+      "GIF",
+      "HTML"
+    ]
+  },
+  "isolated_pretrained_evaluation": {
+    "scripts": 5,
+    "evaluation_episodes": 2,
+    "status": "passed"
+  },
+  "explicit_preceding_checkpoint_finetuning": {
+    "stages": [
+      4,
+      5
+    ],
+    "steps_per_script": 2048,
+    "status": "passed"
+  },
+  "unit_tests": {
+    "passed": 19,
+    "includes": [
+      "original algorithm checks",
+      "checkpoint prediction equivalence",
+      "no project imports",
+      "incompatible checkpoint rejection",
+      "failure before disturbance"
+    ]
+  },
+  "scope": "Smoke tests verify runnable workflows; no new full-budget performance claims."
+}
